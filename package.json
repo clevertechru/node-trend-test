@@ -1,0 +1,29 @@
+{
+  "name": "node-trend-test",
+  "version": "1.0.0",
+  "description": "node-trend-test",
+  "main": "index.js",
+  "dependencies": {
+    "q": "^1.4.1"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  },
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clevertechru/node-trend-test.git"
+  },
+  "author": "clevertechru",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/clevertechru/node-trend-test/issues"
+  },
+  "homepage": "https://github.com/clevertechru/node-trend-test#readme",
+  "directories": {
+    "test": "test"
+  }
+}
